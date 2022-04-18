@@ -1,8 +1,9 @@
-package com.mamburuapps.swosh
+package com.mamburuapps.swosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.mamburuapps.swosh.R
 
 open class BaseActivity : AppCompatActivity() {
     val TAG = "LifeCycle"

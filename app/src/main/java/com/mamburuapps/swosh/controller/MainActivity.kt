@@ -1,8 +1,8 @@
-package com.mamburuapps.swosh
+package com.mamburuapps.swosh.controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mamburuapps.swosh.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
